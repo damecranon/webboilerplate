@@ -45,3 +45,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#PHPStorm .idea directory files
+cssfire.xml
+dbnavigator.xml
+encodings.xml
+misc.xml
+modules.xml
+profile_settings.xml
+vcs.xml
+webboilerplate.iml
+
+
+
